@@ -16,3 +16,10 @@
 </p>
 
 <p align='center'>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=thesatyam05" alt="thesatyam05" /></p>
+
+
+
+
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
